@@ -1,1 +1,24 @@
-it is firstapp
+<html>
+<script>
+  function changeLinkName(){
+//      document.getElementById('login').href = 'http://www.google.com'
+      document.getElementById('login').innerHTML = 'Hello'
+  }
+
+</script>
+<body>
+<form action="success">
+
+    <a href="success" id="login" name="login">Login</a> <br/>
+    <!--<div id="button" onclick="changeLinkName()">-->
+  <input type="text" name="uname" id="uname"/><br/>
+      <button>Change login link name</button>
+    </div>
+  <input type="submit">
+</form>
+
+<br><br>
+HI <%= @uname %>
+</body>
+</html>
+
