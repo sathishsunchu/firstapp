@@ -1,6 +1,8 @@
 Firstapp::Application.routes.draw do
-  get "home/index"
-  get "home/success"
+  #get "home/index"
+  #get "home/success"
+
+  match "home" => "home#index", via: [:get]   #via: [:get, :post], via: :all
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
