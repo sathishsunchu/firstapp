@@ -38,6 +38,11 @@ end
 # Use unicorn as the app server
 gem 'unicorn'
 
+group :development, :test do
+  gem 'rspec'
+  gem 'rspec-rails'
+end
+
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
 
