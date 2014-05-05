@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1521a580-cd59-4474-b177-a493bb4f7cde" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="firstapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +42,7 @@
       <file leaf-file-name="home_controller_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/controllers/home_controller_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="35" selection-start="250" selection-end="250" vertical-scroll-proportion="0.1993865" vertical-offset="0" max-vertical-offset="978">
+            <state line="13" column="34" selection-start="249" selection-end="249" vertical-scroll-proportion="0.1993865" vertical-offset="0" max-vertical-offset="978">
               <folding />
             </state>
           </provider>
@@ -734,7 +732,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/controllers/home_controller_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="35" selection-start="250" selection-end="250" vertical-scroll-proportion="0.1993865" vertical-offset="0" max-vertical-offset="978">
+        <state line="13" column="34" selection-start="249" selection-end="249" vertical-scroll-proportion="0.1993865" vertical-offset="0" max-vertical-offset="978">
           <folding />
         </state>
       </provider>
