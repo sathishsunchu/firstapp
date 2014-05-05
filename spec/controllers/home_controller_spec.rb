@@ -11,7 +11,7 @@ describe HomeController do
   it 'should respond to success action' do
     get :success
 
-    expect(response.status).to eq(200)
+    expect(response.status).to eq(4200)
   end
 
 end
