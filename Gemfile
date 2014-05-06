@@ -43,6 +43,9 @@ group :development, :test do
   gem 'rspec-rails'
 end
 
+#gem to generate code coverage
+gem 'simplecov', :require => false, :group => :test
+
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
 
