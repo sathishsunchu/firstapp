@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1521a580-cd59-4474-b177-a493bb4f7cde" name="Default" comment="changed testcase to pass&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/firstapp.iml" afterPath="$PROJECT_DIR$/.idea/firstapp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/spec_helper.rb" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="firstapp.iws" />
@@ -53,6 +49,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="9" selection-start="495" selection-end="495" vertical-scroll-proportion="0.2760736" vertical-offset="0" max-vertical-offset="978">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="success.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/home/success.html.erb">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spec_helper.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="spec_helper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="627" selection-end="627" vertical-scroll-proportion="0.2607362" vertical-offset="0" max-vertical-offset="978">
+            <state line="21" column="54" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
               <folding />
             </state>
           </provider>
@@ -109,10 +114,10 @@
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/home/success.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -892,13 +897,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="9" selection-start="495" selection-end="495" vertical-scroll-proportion="0.2760736" vertical-offset="0" max-vertical-offset="978">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/success.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="7" selection-start="100" selection-end="100" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
@@ -925,7 +923,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="627" selection-end="627" vertical-scroll-proportion="0.2607362" vertical-offset="0" max-vertical-offset="978">
+        <state line="21" column="54" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="9" selection-start="495" selection-end="495" vertical-scroll-proportion="0.2760736" vertical-offset="0" max-vertical-offset="978">
           <folding />
         </state>
       </provider>
