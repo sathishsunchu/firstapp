@@ -2,7 +2,19 @@
 ENV["RAILS_ENV"] ||= 'test'
 
 require 'simplecov'
-SimpleCov.start 'rails'
+require 'simplecov-rcov'
+SimpleCov.formatter = SimpleCov::Formatter::RcovFormatter
+SimpleCov.start 'rails' do
+
+  # Here I'm grouping the following files in one tab in code coverage report
+  #ie 'controllers' will come in one tab, and 'Hello' will come on one more tab
+  #add_group 'Controllers', 'app/controllers'
+  #add_group 'Hello', 'app/hello'
+
+  # Here I'm configuring following files not included in code coverage report.
+  #add_filter 'controllers/home_controller.rb'
+  #add_filter 'helpers/home_helper.rb'
+end
 
 require File.expand_path("../../config/environment", __FILE__)
 require 'rspec/rails'

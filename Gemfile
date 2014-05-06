@@ -45,6 +45,8 @@ end
 
 #gem to generate code coverage
 gem 'simplecov', :require => false, :group => :test
+# this gem also generates code coverage
+gem 'simplecov-rcov', :require => false
 
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
