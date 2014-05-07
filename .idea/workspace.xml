@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1521a580-cd59-4474-b177-a493bb4f7cde" name="Default" comment="changed testcase to pass&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="firstapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,7 +42,7 @@
       <file leaf-file-name="home_controller_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/controllers/home_controller_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="157" selection-end="266" vertical-scroll-proportion="0.21472393" vertical-offset="0" max-vertical-offset="978">
+            <state line="15" column="2" selection-start="263" selection-end="263" vertical-scroll-proportion="0.23006135" vertical-offset="0" max-vertical-offset="978">
               <folding />
             </state>
           </provider>
@@ -930,7 +929,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/controllers/home_controller_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="157" selection-end="266" vertical-scroll-proportion="0.21472393" vertical-offset="0" max-vertical-offset="978">
+        <state line="15" column="2" selection-start="263" selection-end="263" vertical-scroll-proportion="0.23006135" vertical-offset="0" max-vertical-offset="978">
           <folding />
         </state>
       </provider>
