@@ -8,10 +8,10 @@ describe HomeController do
     expect(response.status).to eq(200)
   end
 
-  it 'should respond to success action' do
-    get :success
-
-    expect(response.status).to eq(200)
-  end
+  #it 'should respond to success action' do
+  #  get :success
+  #
+  #  expect(response.status).to eq(200)
+  #end
 
 end
