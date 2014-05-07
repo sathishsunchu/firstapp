@@ -42,7 +42,7 @@
       <file leaf-file-name="home_controller_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/controllers/home_controller_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="2" selection-start="263" selection-end="263" vertical-scroll-proportion="0.24539877" vertical-offset="0" max-vertical-offset="978">
+            <state line="15" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.23006135" vertical-offset="0" max-vertical-offset="978">
               <folding />
             </state>
           </provider>
@@ -929,7 +929,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/controllers/home_controller_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="2" selection-start="263" selection-end="263" vertical-scroll-proportion="0.24539877" vertical-offset="0" max-vertical-offset="978">
+        <state line="15" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.23006135" vertical-offset="0" max-vertical-offset="978">
           <folding />
         </state>
       </provider>
