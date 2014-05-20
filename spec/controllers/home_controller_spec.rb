@@ -14,5 +14,5 @@ describe HomeController do
     expect(response.status).to eq(200)
   end
 
-  
+
 end

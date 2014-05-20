@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1521a580-cd59-4474-b177-a493bb4f7cde" name="Default" comment="changed testcase to pass&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/home_controller_spec.rb" />
-    </list>
+    <list default="true" id="1521a580-cd59-4474-b177-a493bb4f7cde" name="Default" comment="changed testcase to pass&#10;" />
     <ignored path="firstapp.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -270,7 +268,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Jenkins/first_app_jenkins" />
+    <property name="last_opened_file_path" value="/opt/usr/apps/cartcat/cart_app" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
