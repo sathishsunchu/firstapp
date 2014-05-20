@@ -2,6 +2,8 @@ require 'spec_helper'
 
 describe HomeController do
 
+  
+
   it 'should respond to index action' do
     get :index
 
@@ -13,8 +15,4 @@ describe HomeController do
 
     expect(response.status).to eq(200)
   end
-
-  
-
-
 end
